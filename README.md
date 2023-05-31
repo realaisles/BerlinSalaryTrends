@@ -56,7 +56,7 @@ You can help:
 
 ## Who is "we"? Who is working on this?
 
-The idea originated in the [issue #41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where a poll _"Would you participate in an anonymous salary survey for Berlin 2023?"_ had a massive response rate (83% yes with 310 votes).
+The idea originated in the [issue #41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where a poll _"Would you participate in an anonymous salary survey for Berlin 2023?"_ had a great response rate (83% yes with 310 votes).
 
 **Current team:**
 - Igor, [handpickedberlin.com](https://handpickedberlin.com) (design of June 2023 survey & initial promotion)
