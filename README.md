@@ -95,7 +95,7 @@ If you have any questions about how you can use the data, please refer to the CC
 
 For explicit permission for commercial use (eg. articles with paywalls) please approach the team.
 
-Usage scenarios:
+### Usage scenarios:
 
 1.  Non-commercial use: A non-profit organization can use the survey results to create a report on industry salaries because they don't intend to make a profit from it.
 2.  Commercial use with permission: A consulting firm can use the survey results to create a market research report if they obtain permission from the original source of the data.
