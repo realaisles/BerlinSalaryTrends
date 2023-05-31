@@ -33,7 +33,7 @@ This anonymous survey will not magically level this playing field, but it will p
 
 Let's lower the noise together.
 
-### What is the goal and the benefit?
+## What is the goal and the benefit?
 
 Our goal is to provide consistent and recurring data collection and analysis.
 
