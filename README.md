@@ -8,7 +8,7 @@ Your participation matters! Join the Berlin Salary Survey 2023 today:
 
 **June 2023 edition, online until 1.7.2023:**
 - 🇬🇧 [in English](https://forms.gle/9zQJbqqeSMrXsmuL6) 🇺🇸
-- 🇩🇪 [in German](https://forms.gle/pC5ULu5b9FWQKsUM6)🇩🇪
+- 🇩🇪 [in German](https://forms.gle/pC5ULu5b9FWQKsUM6) 🇩🇪
 
 ## Table of Contents
 1. [Why an anonymous survey?](#why-an-anonymous-survey)
