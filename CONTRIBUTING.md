@@ -9,3 +9,4 @@ Support is needed in the areas of:
 - promotion (increasing the reach),
 - validation of German translation of README.
 
+Contact me.
