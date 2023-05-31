@@ -57,23 +57,23 @@ You can help:
 
 ## Who is "we"? Who is working on this?
 
-The idea originated in the [issue #41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where the Poll "Would you participate in an anonymous salary survey for Berlin 2023" had a massive response rate (83% yes with 310 votes).
+The idea originated in the [issue #41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where a poll _"Would you participate in an anonymous salary survey for Berlin 2023?"_ had a massive response rate (83% yes with 310 votes).
 
-Current team:
+**Current team:**
 - Igor, [handpickedberlin.com](https://handpickedberlin.com) (design of June 2023 survey & initial promotion)
-- you, but you have not volunteered yet
+- **YOU**, but you have not volunteered yet
 
-Support is needed in the areas of:
+**Support is needed in the areas of:**
 - data visualisation,
 - data analysis (eg. Jupyter or other methods),
 - methodology & questionnaire improvements (if the survey will be recurring),
 - promotion (increasing the reach),
-- validation of German translation.
+- validation of German translation of README.
 
 Do you have fitting skills? Let me know!
 
 ## Where will the results be published?
-- Raw data: the data will be published in cleaned and uncleaned version in this repo as mentioned in the survey itself
+- Raw data: the data will be published in cleaned and uncleaned version in this repo (deadline is mentioned in the survey itself)
 - Analysis: a basic analysis will also be published in a form of an article at handpickedberlin.com
 
 The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
@@ -81,11 +81,11 @@ For usage and more info, see chapter _License & Using Survey Data chapter.
 
 ## Who designed the survey?
 
-Version June 2023: survey is based on similar surveys with brevity in mind. It is also inspired by European Social Survey and Destatis (Federal Statistical Office of Germany).
+- Version June 2023: survey is based on similar surveys with brevity in mind. It is also inspired by European Social Survey and Destatis (Federal Statistical Office of Germany).
 
 ## How can I use the data?
 
-- You can use it to benchmark yourself against others.
+- You can use it to benchmark yourself against others in similar role or industry.
 - The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## License & Using Survey Data
