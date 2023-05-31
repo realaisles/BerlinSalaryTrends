@@ -1,5 +1,16 @@
 # Berlin Salary Trends
 
+Welcome to the Berlin Salary Trends repo. 
+
+
+
+### Quick links
+
+**June 2023 edition:**
+- in English https://forms.gle/9zQJbqqeSMrXsmuL6
+- in German https://forms.gle/pC5ULu5b9FWQKsUM6
+
+
 ### Why an anonymous survey about salaries in Berlin?
 
 Salary levels are taboo, because almost nobody publishes their own salary publicly? There is some data available on pages like Kununu, Glassdoor, Levels, but this self-reported data includes a lot of noise. You can also find some data on places like reddit or forums, but again: noise. 
