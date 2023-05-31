@@ -81,7 +81,7 @@ For usage and more info, see chapter _License & Using Survey Data chapter.
 
 ## Who designed the survey?
 
-Version June 2023: questions are based on similar surveys with brevity in mind and are inspired by European Social Survey and Destatis (Federal Statistical Office of Germany).
+Version June 2023: survey is based on similar surveys with brevity in mind. It is also inspired by European Social Survey and Destatis (Federal Statistical Office of Germany).
 
 ## How can I use the data?
 
