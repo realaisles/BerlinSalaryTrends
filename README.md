@@ -90,9 +90,7 @@ Version June 2023: questions are based on similar surveys with brevity in mind a
 
 ## License & Using Survey Data
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-The survey and the results are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA), which means that you are free to use and share the data for non-commercial purposes, as long as you provide attribution to the original source and any new works based on the data are also licensed under the same terms. This license allows for the data to be freely used and shared, while still providing some level of protection against commercial exploitation. 
+The survey and the results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/), which means that you are free to use and share the data for non-commercial purposes, as long as you provide attribution to the original source and any new works based on the data are also licensed under the same terms. This license allows for the data to be freely used and shared, while still providing some level of protection against commercial exploitation. 
 
 If you have any questions about how you can use the data, please refer to the CC BY-NC-SA license or contact the team for more information.
 
