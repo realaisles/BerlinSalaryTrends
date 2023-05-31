@@ -7,9 +7,10 @@ Welcome to the Berlin Salary Trends repo.
 
 Your participation matters! Join the Berlin Salary Survey 2023 today:
 
-**June 2023 edition:**
-- in English https://forms.gle/9zQJbqqeSMrXsmuL6
-- in German https://forms.gle/pC5ULu5b9FWQKsUM6
+**June 2023 edition, online until 1.7.2023:**
+- [in English](https://forms.gle/9zQJbqqeSMrXsmuL6)
+- [in German](https://forms.gle/pC5ULu5b9FWQKsUM6) 
+
 
 
 ### Why an anonymous survey?
@@ -46,7 +47,7 @@ You can help:
 
 ### Who is "we"? Who is working on this?
 
-The idea originated in the issue #41 of a hobby newsletter handpicked for Berlin[[https://handpickedberlin.substack.com/p/issue41]] where the Poll "Would you participate in an anonymous salary survey for Berlin 2023" had a massive response rate (83% yes with 310 votes).
+The idea originated in the issue [#41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where the Poll "Would you participate in an anonymous salary survey for Berlin 2023" had a massive response rate (83% yes with 310 votes).
 
 Current team:
 - Igor, handpickedberlin.com (design of June 2023 survey & initial promotion)
@@ -65,7 +66,7 @@ Do you have fitting skills? Let me know!
 - Raw data: the data will be published in cleaned and uncleaned version in this repo as mentioned in the survey itself
 - Analysis: a basic analysis will also be published in a form of an article at handpickedberlin.com
 
-The survey results are licensed under (Creative Commons Attribu_tion-NonCommercial-ShareAlike (CC BY-NC-SA))[http://www.google.com]. 
+The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 For usage and more info, see chapter _License & Using Survey Data chapter.
 
 ### Who designed the survey?
@@ -75,7 +76,7 @@ Version June 2023: questions are based on similar surveys with brevity in mind a
 ### How can I use the data?
 
 - You can use it to benchmark yourself against others.
-- The survey results are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
+- The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Who can participate?
 
