@@ -20,7 +20,7 @@ Your participation matters! Join the Berlin Salary Survey 2023 today:
 6. [Where will the results be published?](#where-will-the-results-be-published)
 7. [Who designed the survey?](#who-designed-the-survey)
 8. [How can I use the data?](#how-can-i-use-the-data)
-9. [License & Using Survey Data](#license-using-survey-data)
+9. [License & Using Survey Data](#license--using-survey-data)
 
 
 ## Why an anonymous survey?
