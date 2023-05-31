@@ -11,7 +11,7 @@ Your participation matters! Join the Berlin Salary Survey 2023 today:
 - 🇩🇪 [in German](https://forms.gle/pC5ULu5b9FWQKsUM6) 🇩🇪
 
 ## Table of Contents
-1. [Why an anonymous survey?](#why-an-anonymous-survey)
+- [Why an anonymous survey?](#why-an-anonymous-survey)
 2. [What is the goal and the benefit?](#what-is-the-goal-and-the-benefit)
 3. [What is the plan?](#what-is-the-plan)
 4. [How can you help and get involved?](#how-can-you-help-and-get-involved)
@@ -19,7 +19,8 @@ Your participation matters! Join the Berlin Salary Survey 2023 today:
 6. [Where will the results be published?](#where-will-the-results-be-published)
 7. [Who designed the survey?](#who-designed-the-survey)
 8. [How can I use the data?](#how-can-i-use-the-data)
-9. [License & Using Survey Data](#license--using-survey-data)
+- [License & Using Survey Data](#license--using-survey-data)
+  - [Usage Scenarios](#usage-scenarios)
 
 
 ## Why an anonymous survey?
@@ -95,7 +96,7 @@ If you have any questions about how you can use the data, please refer to the CC
 
 For explicit permission for commercial use (eg. articles with paywalls) please approach the team.
 
-### Usage scenarios:
+### Usage scenarios
 
 1.  Non-commercial use: A non-profit organization can use the survey results to create a report on industry salaries because they don't intend to make a profit from it.
 2.  Commercial use with permission: A consulting firm can use the survey results to create a market research report if they obtain permission from the original source of the data.
