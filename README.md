@@ -78,7 +78,7 @@ Do you have fitting skills? Let me know!
 - Analysis: a basic analysis will also be published in a form of an article at handpickedberlin.com
 
 The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-For usage and more info, see chapter _License & Using Survey Data chapter.
+For usage and more info, see chapter [License & Using Survey Data](#license--using-survey-data).
 
 ## Who designed the survey?
 
