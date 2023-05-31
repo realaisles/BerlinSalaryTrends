@@ -12,7 +12,7 @@ Your participation matters! Join the Berlin Salary Survey 2023 today:
 - in German https://forms.gle/pC5ULu5b9FWQKsUM6
 
 
-### Why an anonymous survey about salaries in Berlin?
+### Why an anonymous survey?
 
 Discussing money **is a taboo**. How many times did you tell your colleague about how much you earn? Yes, probably never. We, the employees, have plaftorms like Kununu, Glassdoor, and Levels.fyi that provide salary information, but the data is noisy, inconsistent and inaccurate. 
 
@@ -34,7 +34,48 @@ This will in turn:
 
 ### What is the plan?
 
-Depends of the interest. But if we get to hundreds of entries, the survey will be repeated at least annually. 
+Ideally to repeat the survey each six months or at least annualy. 
+This also depends on the number of responses and the interest generated.
+
+### How can you help and get involved?
+
+You can help:
+- by participating,
+- by spreading the word on social and elsewhere,
+- by volunteering to help in other areas (see next chapter).
+
+### Who is "we"? Who is working on this?
+
+The idea originated in the issue #41 of a hobby newsletter handpicked for Berlin[[https://handpickedberlin.substack.com/p/issue41]] where the Poll "Would you participate in an anonymous salary survey for Berlin 2023" had a massive response rate (83% yes with 310 votes).
+
+Current team:
+- Igor, handpickedberlin.com (design of June 2023 survey & initial promotion)
+- you, but you have not volunteered yet
+
+Support is needed in the areas of:
+- data visualisation,
+- data analysis (eg. Jupyter or other methods),
+- methodology & questionnaire improvements (if the survey will be recurring),
+- promotion (increasing the reach),
+- validation of German translation.
+
+Do you have fitting skills? Let me know!
+
+### Where will the results be published?
+- Raw data: the data will be published in cleaned and uncleaned version in this repo as mentioned in the survey itself
+- Analysis: a basic analysis will also be published in a form of an article at handpickedberlin.com
+
+The survey results are licensed under (Creative Commons Attribu_tion-NonCommercial-ShareAlike (CC BY-NC-SA))[http://www.google.com]. 
+For usage and more info, see chapter _License & Using Survey Data chapter.
+
+### Who designed the survey?
+
+Version June 2023: questions are based on similar surveys with brevity in mind and are inspired by European Social Survey and Destatis (Federal Statistical Office of Germany).
+
+### How can I use the data?
+
+- You can use it to benchmark yourself against others.
+- The survey results are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
 
 ### Who can participate?
 
@@ -42,42 +83,6 @@ Anyone working in Berlin.
 This also means employees working remotely for companies in Berlin.
 
 
-### Where will the results be published?
-- Data: the data will be cleaned and then published in .csv on GitHub.
-- Analysis: after the data is cleaned, the analysis will also be published at handpickedberlin.com
-
-The survey results are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA). See chapter License & Using Survey Data below.
-
-### What is the design of the questions?
-
-V1.00: the initial set of questions was prepared based on similar surveys with the goal to keep them as brief and as precise as possible. Inspiration from European Social Survey and Destatis (Federal Statistical Office of Germany).
-
-### How can I help?
-
-You can help:
-- by participating.
-- by distributing the survey on social media.
-- with promotion on different channels (eg. media, NGOs).
-- with the analysis (eg. Jupyter Notebook).
-- with visualisation of the data.
-- with methodological input.
-
-### How can I use the data?
-
-- You can use it to benchmark yourself against others.
-- The survey results are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
-
-### How can I suggest changes to the questions?
-
-- Get involved and we will see what makes sense.
-
-### Who is doing it?
-
-The idea originated in the issue #41 of handpicked for Berlin[[https://handpickedberlin.substack.com/p/issue41]] where the Poll "Would you participate in an anonymous salary survey for Berlin 2023" had a massive response rate (83% yes, 310 votes).
-
-Current one-man team:
-- Igor, handpickedberlin.com (methodology, promotion)
-- you, but you have not volunteered yet
 
 ### License & Using Survey Data
 
