@@ -3,8 +3,9 @@
 Welcome to the Berlin Salary Trends repo. 
 
 
+### Participate:
 
-### Quick links
+Your participation matters! Join the Berlin Salary Survey 2023 today:
 
 **June 2023 edition:**
 - in English https://forms.gle/9zQJbqqeSMrXsmuL6
@@ -13,21 +14,23 @@ Welcome to the Berlin Salary Trends repo.
 
 ### Why an anonymous survey about salaries in Berlin?
 
-Salary levels are taboo, because almost nobody publishes their own salary publicly? There is some data available on pages like Kununu, Glassdoor, Levels, but this self-reported data includes a lot of noise. You can also find some data on places like reddit or forums, but again: noise. 
+Discussing money **is a taboo**. How many times did you tell your colleague about how much you earn? Yes, probably never. We, the employees, have plaftorms like Kununu, Glassdoor, and Levels.fyi that provide salary information, but the data is noisy, inconsistent and inaccurate. 
 
-Employers can use benchmarking services and are in clear advantage compared to employees because they also have more visibility in the market with different metrics (eg. number of applications per position, expected salary levels and similar).
+Employers, on the other hand, often have access to robust benchmarking services that enable them a good visibility into market metrics such as the number of applications per position, expected salary levels, and more. When it comes to salary negotiation this clearly tilts the balance in the favor of employers.
 
+This anonymous survey will not magically level this playing field, but it will provides a platform for an honest sharing of salary information. Hopefully it will help you see how you compare to others and see where you stand. Numbers matter, the higher the number of submissions, the lower the noise.
 
-### What is the benefit?
+Let's lower the noise together.
 
-The main goal is to help decrease the noise and increase the visibility on the job market for employees on consistent and recurring basis.
+### What is the goal and the benefit?
 
-Survey will:
-- improve your ability to benchmark your own salary to see where you stand,
-- promote transparency and fairness,
-- highlight the biggest discrepancies and gaps,
-- also help companies get improved insights.
+Our goal is to provide consistent and recurring data collection and analysis.
 
+This will in turn:
+- empower YOU to benchmark your salary against others in similar roles or industries, providing a clearer understanding of your market value,
+- improve transparency and fairness in performance reviews and interviews,
+- identify gaps within industries, roles or demographics,
+- serve as a valuable resource for employers to optimize their remuneration practices.
 
 ### What is the plan?
 
