@@ -2,7 +2,7 @@
 
 Welcome to the Berlin Salary Trends repo. 
 
-## 🚀 Join the Berlin Salary Survey 2023 today
+## 🫵🏻 Join the Berlin Salary Survey 2023!
 
 Submit your data anonymously and find out how you compare to others.
 
