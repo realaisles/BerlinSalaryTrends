@@ -12,6 +12,8 @@ Submit your data anonymously and find out how you compare to others.
 
 Results will be published by 15.7.2023.
 
+🙏 Share with as many people as possible working in Berlin. ✌️
+
 ## Table of Contents
 
 1. [Why an anonymous survey?](#why-an-anonymous-survey)
