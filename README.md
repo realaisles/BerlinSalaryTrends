@@ -7,8 +7,8 @@ Welcome to the Berlin Salary Trends repo.
 Submit your data anonymously and find out how you compare to others.
 
 **June 2023 edition, online until 1.7.2023:**
-- 🇬🇧 [in English](https://forms.gle/9zQJbqqeSMrXsmuL6) 🇺🇸
-- 🇩🇪 [in German](https://forms.gle/pC5ULu5b9FWQKsUM6) 🇩🇪
+- 🇬🇧 [Click here for the survey in English](https://forms.gle/9zQJbqqeSMrXsmuL6) 🇺🇸
+- 🇩🇪 [Click here for the survey in Deutsch](https://forms.gle/pC5ULu5b9FWQKsUM6) 🇩🇪
 
 Results will be published by 15.7.2023.
 
