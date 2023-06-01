@@ -2,13 +2,15 @@
 
 Welcome to the Berlin Salary Trends repo. 
 
-## Participate:
+## 🚀 Join the Berlin Salary Survey 2023 today
 
-Your participation matters! Join the Berlin Salary Survey 2023 today:
+Submit your data anonymously and find out how you compare to others:
 
 **June 2023 edition, online until 1.7.2023:**
 - 🇬🇧 [in English](https://forms.gle/9zQJbqqeSMrXsmuL6) 🇺🇸
 - 🇩🇪 [in German](https://forms.gle/pC5ULu5b9FWQKsUM6) 🇩🇪
+
+Result will be published no later than 15.7.2023.
 
 ## Table of Contents
 
