@@ -2,7 +2,7 @@
 
 Welcome to the Berlin Salary Trends repo. 
 
-## 🫵🏻 Join the Berlin Salary Survey 2023!
+## 🫵🏻 Join the June 2023 Survey! It's under 3 min!
 
 Submit your data anonymously and find out how you compare to others.
 
@@ -17,7 +17,7 @@ Results will be published by 15.7.2023.
 ## Table of Contents
 
 1. [Why an anonymous survey?](#why-an-anonymous-survey)
-2. [What is the goal and the benefit?](#what-is-the-goal-and-the-benefit)
+2. [What is the goal and the benefit?](#what-are-the-goal-and-the-benefit)
 3. [What is the plan?](#what-is-the-plan)
 4. [How can you help and get involved?](#how-can-you-help-and-get-involved)
 5. [Who is "we"? Who is working on this?](#who-is-we-who-is-working-on-this)
@@ -32,9 +32,9 @@ Results will be published by 15.7.2023.
 
 Discussing money **is taboo**. How many times did you tell your colleague about how much you earn? Yes, probably never. We, the employees, have platforms like Kununu, Glassdoor, and Levels.fyi that provide salary information, but the data is noisy, inconsistent and inaccurate. 
 
-On the other hand, employers often have access to robust benchmarking services that give them good visibility into market metrics such as the number of applications per position, expected salary levels, and more. Regarding salary negotiation, this clearly tilts the balance in favour of employers.
+On the other hand, employers often have access to robust benchmarking services that give them good visibility into market metrics such as the number of applications per position, expected salary levels, and more. Regarding salary negotiation, this clearly tilts the balance **in favour of employers**.
 
-This anonymous survey will not magically level this playing field, but it will provide a platform for the honest sharing of salary information. Hopefully, it will help you see how you compare to others and see where you stand. Numbers matter; the higher the number of submissions, the lower the noise.
+This anonymous survey will not magically level this playing field, but it will provide a platform for the honest sharing of salary information. Hopefully, it will **help you see how you compare to others and see where you stand**. Numbers matter; the higher the number of submissions, the lower the noise.
 
 Let's lower the noise together.
 
@@ -62,7 +62,7 @@ You can help:
 
 ## Who is "we"? Who is working on this?
 
-The idea originated in the [issue #41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where a poll _"Would you participate in an anonymous salary survey for Berlin 2023?"_ had a excellent response rate (83% yes with 310 votes).
+The idea originated in the [issue #41 of a hobby newsletter handpicked for Berlin](https://handpickedberlin.substack.com/p/issue41) where a poll _"Would you participate in an anonymous salary survey for Berlin 2023?"_ had a excellent response rate (83% yes with 310 votes). **This is a hobby project without any budget.**
 
 **Current team:**
 - Igor, [handpickedberlin.com](https://handpickedberlin.com) (design of June 2023 survey & initial promotion)
@@ -104,6 +104,6 @@ For explicit permission for commercial use (eg. articles with paywalls) please a
 ### Usage scenarios
 
 1.  Non-commercial use: A non-profit organization can use the survey results to create a report on industry salaries because they don't intend to make a profit from it.
-2.  Commercial use with permission: A consulting firm can use the survey results to create a market research report if they obtain permission from the original source of the data.
+2.  Commercial use with permission: A consulting firm or an influencer/consultant (LinkedIn & similar) can use the survey results to create a market research report if they obtain permission from the original source of the data.
 3.  Use in a newspaper article: A newspaper can use the survey results to support an article on industry salaries if they attribute the data to the original source and the article is not for commercial purposes.
 4.  Use behind a paywall: A news website can use the survey results to create a paywalled report on industry salaries if they negotiate a separate license with the original source of the data, which might involve paying a fee or agreeing to other conditions.
