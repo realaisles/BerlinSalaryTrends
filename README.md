@@ -80,10 +80,10 @@ The idea originated in the [issue #41 of a hobby newsletter handpicked for Berli
 Do you have relevant skills? Let me know!
 
 ## Where will the results be published?
-- Raw data: the data will be published in a cleaned and uncleaned version in this repo (deadline is mentioned in the survey itself)
-- Analysis: an analysis will also be published in a form of an article at handpickedberlin.com
+- Raw data: the data will be published in a cleaned and uncleaned version in this repo (deadline is mentioned in the survey itself) in accordance to Data privacy and confidentiality disclaimer (aggregated to prevent singling out)
+- Analysis: an analysis/report will also be published in a form of an article at handpickedberlin.com
 
-The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+The aggregated survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 For usage and more info, see chapter [License & Using Survey Data](#license--using-survey-data).
 
 ## Who designed the survey?
@@ -112,28 +112,44 @@ For explicit permission for commercial use (eg. articles with paywalls) please a
 
 ## Data Privacy and Confidentiality Disclaimer
 
+**Introduction**
+
+This policy outlines how we collect, store, use, and protect your data during the Berlin Salary Survey.
+
+**GDPR Compliance**
+
+As the private entity administrators of this survey, **we operate under the assumption that we do not process personal data as per the GDPR definition, given the anonymous design of the survey**. We make every effort to avoid any potential singling out of individuals; this includes grouping data points and removing any potentially identifiable information. Only aggregated data sets ensuring k-anonymity (5 or more individuals in a group) will be published, and any data that could lead to identification will be removed from the dataset. All questions have been designed to avoid collecting unnecessary or excessive data to focus on data minimization.
+
 **Anonymous Survey and Your Privacy**
 
-This survey is designed to be anonymous. We do not collect any personally identifiable information from you unless you voluntarily offer such information in the comments. Individual responses won't be singled out, and the results will be published in aggregate form.
+The Berlin Salary Survey is conducted anonymously. We do not collect any personally identifiable information (PII) such as names, addresses, email addresses, or IP addresses unless you voluntarily provide such information in free form fields. These free form entries will be removed. Individual responses won't be singled out; the results will be published in aggregate form ensuring that no singling out would be possible. 
 
 **Google Forms and Data Privacy**
 
-We are using Google Forms to conduct this survey. While we, as the survey creators, don't collect identifiable information, Google could technically access this data. If you are logged into a Google account while participating, Google might collect and use your information according to its own privacy policies. Thus, your responses may not be 100% anonymous from Google's perspective.
+We use Google Forms for this survey. While we don't collect identifiable information, Google may technically access this data. If you are logged into a Google account while participating, Google might collect and use your information according to its own privacy policies. Thus, your responses may not be 100% anonymous from Google's perspective.
+
+To limit the potential for Google's data collection when completing this survey, you may consider using your browser's incognito or private browsing mode. This mode prevents your browsing history from being stored and discards cookies after you close the incognito or private browsing window. By doing so, you reduce the chances of Google associating your survey responses with your Google account. However, this does not guarantee complete anonymity from Google's perspective, as they may still collect certain information during your session.
 
 **Your Participation is Voluntary**
 
-Participation in this survey is entirely voluntary. You have the freedom to choose not to answer certain questions, or withdraw from the survey at any time. However, please be mindful not to share any sensitive information in the comments that you wouldn't want to be publicly associated with your responses.
+Participation in this survey is entirely voluntary. You have the freedom to not answer certain questions or withdraw from the survey at any time. However, please avoid sharing any sensitive information in free fields that you wouldn't want publicly associated with your responses.
 
 **Data Usage**
 
-The data collected through this survey will be used to create a public report on salary trends in Berlin. This report will be openly available, supporting transparency in salary discussions. Individual data points will be anonymized, ensuring no single participant can be identified. If you consent to take part in this survey, you agree to this use of the data.
+The data collected will be used to create a public report on salary trends in Berlin. This report will be openly available, supporting transparency in salary discussions. If you consent to participate in this survey, you agree to this use of the data.
 
-**Data Retention**
+**User Access and Correction of Data**
 
-The collected data will be retained for historical reference and to track salary trends over time. While individual responses are anonymized, the raw survey data, along with any analyzed and reported information, will be stored indefinitely in a secure manner. This data will be stored exclusively on the GitHub repository and will be openly available for everyone under the license as defined in the "License & Using Survey Data" section.
+Due to the anonymous nature of the survey, we cannot provide an option for participants to access or correct their data post-submission. This is because we cannot identify your specific responses unless you voluntarily identified yourself in any of the free text fields. Please review your answers carefully before submitting, as we can't facilitate modifications once the data is collected.
+
+**Data Storage and Retention**
+
+All data collected from the survey responses are stored in aggregated form indefinitely on this GitHub repository. This data will be stored securely and will be openly available for everyone to access under the license defined in the 'License & Usage of Survey Data' section. The collected data will be retained for historical reference and to track salary trends over time.
 
 **Consent to Participate**
 
-By proceeding with this survey, you confirm your understanding of these details and voluntarily consent to participate under these conditions.
+By proceeding with the survey, you confirm your understanding of these details and voluntarily consent to participate under these conditions.
 
+**Contact**
 
+If you have any concerns or questions regarding this policy, please feel free to contact us.
