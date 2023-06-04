@@ -26,6 +26,7 @@ Results will be published by 15.7.2023.
 8. [How can I use the data?](#how-can-i-use-the-data)
 9. [License & Using Survey Data](#license--using-survey-data)
     1. [Usage Scenarios](#usage-scenarios)
+10. [Data Privacy and Confidentiality Disclaimer](#data-privacy-and-confidentiality-disclaimer)
 
 
 ## Why an anonymous survey?
@@ -73,7 +74,8 @@ The idea originated in the [issue #41 of a hobby newsletter handpicked for Berli
 - data analysis (e.g. Jupyter or other methods),
 - methodology & questionnaire improvements (if the survey will be recurring),
 - promotion (increasing the reach),
-- validation of German translation of README.
+- validation of German translation of README
+- improve data privacy & confidentiality disclaimer.
 
 Do you have relevant skills? Let me know!
 
@@ -107,3 +109,31 @@ For explicit permission for commercial use (eg. articles with paywalls) please a
 2.  Commercial use with permission: A consulting firm or an influencer/consultant (LinkedIn & similar) can use the survey results to create a market research report if they obtain permission from the original source of the data.
 3.  Use in a newspaper article: A newspaper can use the survey results to support an article on industry salaries if they attribute the data to the original source and the article is not for commercial purposes.
 4.  Use behind a paywall: A news website can use the survey results to create a paywalled report on industry salaries if they negotiate a separate license with the original source of the data, which might involve paying a fee or agreeing to other conditions.
+
+## Data Privacy and Confidentiality Disclaimer
+
+**Anonymous Survey and Your Privacy**
+
+This survey is designed to be anonymous. We do not collect any personally identifiable information from you unless you voluntarily offer such information in the comments. Individual responses won't be singled out, and the results will be published in aggregate form.
+
+**Google Forms and Data Privacy**
+
+We are using Google Forms to conduct this survey. While we, as the survey creators, don't collect identifiable information, Google could technically access this data. If you are logged into a Google account while participating, Google might collect and use your information according to its own privacy policies. Thus, your responses may not be 100% anonymous from Google's perspective.
+
+**Your Participation is Voluntary**
+
+Participation in this survey is entirely voluntary. You have the freedom to choose not to answer certain questions, or withdraw from the survey at any time. However, please be mindful not to share any sensitive information in the comments that you wouldn't want to be publicly associated with your responses.
+
+**Data Usage**
+
+The data collected through this survey will be used to create a public report on salary trends in Berlin. This report will be openly available, supporting transparency in salary discussions. Individual data points will be anonymized, ensuring no single participant can be identified. If you consent to take part in this survey, you agree to this use of the data.
+
+**Data Retention**
+
+The collected data will be retained for historical reference and to track salary trends over time. While individual responses are anonymized, the raw survey data, along with any analyzed and reported information, will be stored indefinitely in a secure manner. This data will be stored exclusively on the GitHub repository and will be openly available for everyone under the license as defined in the "License & Using Survey Data" section.
+
+**Consent to Participate**
+
+By proceeding with this survey, you confirm your understanding of these details and voluntarily consent to participate under these conditions.
+
+
