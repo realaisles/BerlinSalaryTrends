@@ -4,7 +4,13 @@ Welcome to the Berlin Salary Trends repo.
 
 ## Results of the June 2023 Survey - #berlinsalarytrends
 
-- [report and a dashboard at handpickedberlin.com](https://handpickedberlin.com/report-on-berlin-salary-trends-survey-june-2023?utm_source=github)
+- [Report and a dashboard at handpickedberlin.com](https://handpickedberlin.com/report-on-berlin-salary-trends-survey-june-2023?utm_source=github)
+
+### In Media
+
+- [Reddit - r/berlin release thread](https://www.reddit.com/r/berlin/comments/155frw1/report_on_berlin_salary_trends_survey_slight_tech/)
+- [20percent.berlin - #196: Pool IDs, Tesla expanding, Social workers](https://www.20percent.berlin/p/196-pool-ids-tesla-expanding-social)
+- [Tech.eu - A survey of Berlin's thriving tech scene sheds light on average salaries](https://tech.eu/2023/07/24/a-survey-of-berlin-tech-salaries-shows/)
 
 ## Want to make sure you participate in 2024 Survey?
 
@@ -81,8 +87,12 @@ The idea originated in the [issue #41 of a hobby newsletter handpicked for Berli
 Do you have relevant skills? Let me know!
 
 ## Where will the results be published?
-- Raw data: the data are published in a cleaned ~~and uncleaned~~ version in this repo in accordance to Data privacy and confidentiality disclaimer (with measures taken to to prevent singling out)
+
+- Raw data: the data is only available per request to avoid abuse, see the data folder and contact me
 - Analysis: an analysis/report will also be published in a form of an article at handpickedberlin.com
+
+*Initally planned:*
+- Raw data (text prior to release in July 2023): the data are published in a cleaned ~~and uncleaned~~ version in this repo in accordance to Data privacy and confidentiality disclaimer (with measures taken to to prevent singling out)
 
 The survey results are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 For usage and more info, see chapter [License & Using Survey Data](#license--using-survey-data).

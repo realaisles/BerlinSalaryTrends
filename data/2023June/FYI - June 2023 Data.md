@@ -1,5 +1,3 @@
-I will publish a cleaned version of data in CSV after some intitial feedback on the report. 
+For CSV data contact me. Available for research or similar.
 
-Please approach me already now if you have questions and plans with using it.
-
-igor . ranc ( at ) gmail dot com
+igor . ranc ( at ) handpickedberlin dot com
