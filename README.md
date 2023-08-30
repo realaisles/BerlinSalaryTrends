@@ -5,6 +5,7 @@ Welcome to the Berlin Salary Trends repo.
 ## Results of the June 2023 Survey - #berlinsalarytrends
 
 - [Report and a dashboard at handpickedberlin.com](https://handpickedberlin.com/report-on-berlin-salary-trends-survey-june-2023?utm_source=github)
+- [The Dashboard you missed in Berlin Salary Trends Survey at handpickedberlin.com](https://handpickedberlin.com/berlin-salary-trends-dashboard-explained/?utm_source=github)
 
 ### In Media
 
