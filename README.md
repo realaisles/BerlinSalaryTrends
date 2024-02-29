@@ -9,6 +9,7 @@ You will find all the latest information [related to the project here.](https://
 In case of questions, please approach me.
 
 Thanks for showing interest! 
+
 Igor
 
 in Berlin, 29.2.2024
