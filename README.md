@@ -2,6 +2,17 @@
 
 Welcome to the Berlin Salary Trends repo. 
 
+I have decided to move the landing page with FAQ and all the relevant links to the future Salary Trends projects to Handpicked Berlin, because it's not sustainable for me to maintain several different pages. After working on the last survey I also realised that open sourcing data in this case makes no sense.
+
+You will find all the latest information [related to the project here.](https://handpickedberlin.com/startup-tech-salary-trends-berlin-munich/)
+
+In case of questions, please approach me.
+
+Thanks for showing interest! 
+Igor
+
+in Berlin, 29.2.2024
+
 ## Results of the June 2023 Survey - #berlinsalarytrends
 
 - [Report and a dashboard at handpickedberlin.com](https://handpickedberlin.com/report-on-berlin-salary-trends-survey-june-2023?utm_source=github)
