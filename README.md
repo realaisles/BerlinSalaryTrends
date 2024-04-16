@@ -4,7 +4,7 @@ Welcome to the Berlin Salary Trends repo.
 
 I have decided to move the landing page with FAQ and all the relevant links to the future Salary Trends projects to Handpicked Berlin, because it's not sustainable for me to maintain several different pages. After working on the last survey I also realised that open sourcing data in this case makes no sense.
 
-You will find all the latest information [related to the project here.](https://handpickedberlin.com/startup-tech-salary-trends-berlin-munich/)
+You will find all the latest information and results [related to the project here.](https://handpickedberlin.com/startup-tech-salary-trends-berlin/)
 
 In case of questions, please approach me.
 
